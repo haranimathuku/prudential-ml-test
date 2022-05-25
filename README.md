@@ -34,7 +34,7 @@ There are few points important to note
   python3 scripts/main.py -predict 34 Male 510 185 10
   ```
  
-## Steps to operationize
+## Steps to operationalize
 
 As I didn't have much time I skipped these steps
 
