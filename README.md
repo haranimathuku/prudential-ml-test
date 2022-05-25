@@ -30,6 +30,8 @@ There are few points important to note
 
 - To run the application
   ```
+  python3 scripts/main.py -predict <age> <gender> <height> <weight> <discount>
+
   Example
   python3 scripts/main.py -predict 34 Male 510 185 10
   ```
