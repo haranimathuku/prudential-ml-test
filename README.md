@@ -4,9 +4,7 @@ The main objective of this problem is to make buying the insurance simpler. In o
 
 There are few points important to note
 - The problem statement is bit unclear. Initially, I was asked to predict the quote, but then I was asked to predict BMI in the problem objective. There is no need to train any model to determine BMI because it is simply a calculated column. As a reason, I assumed the problem was to predicting the quote.
-- I wanted to try various ML algorithms like Decision tree, Random forest and Gradient boosting to predict the target variable but business rules are already given to calculate the quote, hence I didn't trained any machine learning model to predict it here. These rules were incorporated a function that was used to find the quote.
-- In the notebook I've done a short analysis on the given dataset.
-
+- I trained several models like Rigde regression, Random forest etc to predict the quote. I was not sure why we need to need to predict the quote as we are already given with the rules to calculate it. But to showcase the usual model building flow I've trained the models.
 
 ## Setup Instructions
 
